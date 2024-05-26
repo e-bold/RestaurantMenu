@@ -37,7 +37,11 @@ menu.RemoveItem(item2);
 Console.WriteLine(menu);
 
 
+//Bonus Mission
 
+MenuItem item7 = new("Chè Thái ", 6.95, "A spoonful of sweet lychee bites, jackfruit slices, chewy jellies, and ice cold coconut milk.", "Dessert");
 
+menu.AddItem(item7);
+Console.WriteLine(menu);
 
 

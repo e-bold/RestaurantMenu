@@ -9,9 +9,17 @@ namespace RestaurantMenu
         
         public void AddItem(MenuItem newItem)
         {
-            MenuItems.Add(newItem);
-            LastUpdated = DateTime.Now;
-            newItem.DateAdded = DateTime.Now;
+            //Menuitem "equals and gethashcode" methods overrode the contains method parameters. So it will use custom boolean parameters we defined in MenuItem Equals method
+            if(MenuItems.Contains(newItem))
+            {
+                Console.WriteLine("Error: That item has already been added to the menu.");
+            } 
+            else {
+                MenuItems.Add(newItem);
+                LastUpdated = DateTime.Now;
+                newItem.DateAdded = DateTime.Now;
+            } 
+
         }
         public void RemoveItem(MenuItem item)
         {
@@ -46,6 +54,7 @@ namespace RestaurantMenu
             "DESSERTS" + desserts + nl +
             "LAST UPDATED " + LastUpdated.ToString("f") + nl;
         }
+
         
 
     }
