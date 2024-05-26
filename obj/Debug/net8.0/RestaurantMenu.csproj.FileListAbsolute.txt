@@ -1,0 +1,15 @@
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.exe
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.deps.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.runtimeconfig.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.AssemblyInfo.cs
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.sourcelink.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\refint\RestaurantMenu.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.genruntimeconfig.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-four\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\ref\RestaurantMenu.dll
